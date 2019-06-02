@@ -1,0 +1,7 @@
+C:\Users\brilj\Documents\Skilling Course\C Sharp\My First Project\My First Project\bin\Debug\My First Project.exe.config
+C:\Users\brilj\Documents\Skilling Course\C Sharp\My First Project\My First Project\bin\Debug\My First Project.exe
+C:\Users\brilj\Documents\Skilling Course\C Sharp\My First Project\My First Project\bin\Debug\My First Project.pdb
+C:\Users\brilj\Documents\Skilling Course\C Sharp\My First Project\My First Project\obj\Debug\My First Project.csprojAssemblyReference.cache
+C:\Users\brilj\Documents\Skilling Course\C Sharp\My First Project\My First Project\obj\Debug\My First Project.csproj.CoreCompileInputs.cache
+C:\Users\brilj\Documents\Skilling Course\C Sharp\My First Project\My First Project\obj\Debug\My First Project.exe
+C:\Users\brilj\Documents\Skilling Course\C Sharp\My First Project\My First Project\obj\Debug\My First Project.pdb

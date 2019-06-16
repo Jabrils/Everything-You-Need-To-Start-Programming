@@ -49,7 +49,7 @@ namespace My_First_Project
             }
 
             // Getting the save variable
-            Console.WriteLine($"Give me a helo-related verb (present tense):");
+            Console.WriteLine($"Give me a hero-related verb (present tense):");
             save = Console.ReadLine();
 
             // Getting the unplugged variable

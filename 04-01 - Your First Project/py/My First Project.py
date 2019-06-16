@@ -38,7 +38,7 @@ for i in range(len(profession)):
     profession[i] = input(f"Profession (plural) {i+1} / {len(profession)}: ")
 
 # Getting the save variable
-save = input(f"Give me a helo-related verb (present tense): ")
+save = input(f"Give me a hero-related verb (present tense): ")
 
 # Getting the unplugged variable
 unplugged = input(f"Now give me a verb that makes you think about relief (past tense): ")
